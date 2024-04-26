@@ -6,7 +6,10 @@ Use the left and right arrow keys to move the paddle.
 Press enter to restart the game.
 
 Screenshots
+
 ![Gameplay](image1.png)
+![Gameplay](image2.png)
+![Gameplay](image2.png)
 
 
 
