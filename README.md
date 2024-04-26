@@ -9,7 +9,7 @@ Screenshots :
 
 ![Gameplay](image1.png)
 ![Gameplay](image2.png)
-![Gameplay](image2.png)
+![Gameplay](image3.png)
 
 
 
